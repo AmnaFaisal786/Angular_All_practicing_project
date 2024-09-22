@@ -1,2 +1,0 @@
-# Angular_All_practicing_project
- Angular_All_practicing_project during Course
